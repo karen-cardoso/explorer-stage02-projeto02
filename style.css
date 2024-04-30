@@ -6,3 +6,15 @@ body {
   margin: 65 auto 0;
   width: 1000px;
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 48px;
+}
