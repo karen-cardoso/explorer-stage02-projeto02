@@ -60,10 +60,11 @@ h1 span {
   color: #89C5CC;
 }
 
-p {
+section p {
   font-size: 14px;
   line-height: 28px;
   color: #7D7987;
+  margin: 40px 0;
 }
 
 button {
@@ -74,6 +75,8 @@ button {
 footer {
   font-weight: 700;
   line-height: 28px;
+
+  text-align: center;
 }
 
 footer a {
