@@ -30,7 +30,7 @@ a {
 }
 
 ul li a:hover {
-  font-weight: 700;
+  font-weight: bold;
 }
 
 h1,
