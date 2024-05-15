@@ -1,6 +1,5 @@
 body {
   margin: 0;
-
   font-family: "Open Sans", sans-serif;
 }
 
@@ -86,11 +85,11 @@ button {
 }
 
 button:hover {
-  background: #6ad3ae;
+  background: #4da285;
 }
 
 footer {
-  font-weight: 700;
+  font-weight: normal;
   line-height: 28px;
 
   text-align: center;
